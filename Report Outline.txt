@@ -1,0 +1,42 @@
+Report Outline:
+
+Topic: CSS Nesting Hierarchy Management Without Preprocessors
+
+Presenters: Liezel D. Samaniego
+
+I. Introduction (0:00 – 0:40)
+
+ Self-Introduction
+    ○ Greeting and introduction of the speaker
+    ○ Introduction of the topic
+ What is CSS Nesting?
+    ○ Simple definition of CSS Nesting
+    ○ Why CSS Nesting is useful
+
+II. Concept Explanation (0:40 – 2:00)
+
+ CSS Nesting
+    ○ Putting one CSS rule inside another
+    ○ Relationship between parent and child elements
+ CSS Hierarchy
+    ○ Parent element
+    ○ Child element
+    ○ Nested styles
+
+III. Example & Demonstration (2:00 – 4:15)
+
+ Basic Example
+    ○ Show a simple HTML and CSS example
+    ○ Show how CSS nesting works
+ Simple Demonstration
+    ○ Apply nested CSS to a webpage
+    ○ Show the result in the browser
+
+IV. Conclusion & Key Takeaways (4:15 – 5:00)
+
+Summary
+    ○ CSS Nesting helps organize CSS code
+    ○ It makes styles easier to read and manage
+ Final Sign-Off
+    ○ Closing statement
+    ○ Thank the audience for listening
